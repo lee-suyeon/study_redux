@@ -14,7 +14,7 @@ export const decrease = () => ({ type: DECREASE});
 // 초기 상태 선언
 const initialState = {
     number: 0,
-    diff: 1
+    diff: 10
 };
 
 // 리듀서 선언
